@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Edit File"
+  short_description: "Edit Figma files directly with safe write flows"
+  default_prompt: "Use $figma-edit-file to make this change directly in the target Figma file."

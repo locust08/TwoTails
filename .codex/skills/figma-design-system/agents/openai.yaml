@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Design System"
+  short_description: "Reuse design system assets before recreating UI"
+  default_prompt: "Use $figma-design-system to find and reuse the right design system assets for this Figma work."

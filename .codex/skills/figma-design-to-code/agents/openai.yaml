@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Design to Code"
+  short_description: "Turn Figma nodes into implementation guidance"
+  default_prompt: "Use $figma-design-to-code to inspect this Figma node and adapt it to the current codebase."

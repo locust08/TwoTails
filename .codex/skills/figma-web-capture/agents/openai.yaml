@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Web Capture"
+  short_description: "Capture webpages into Figma the right way"
+  default_prompt: "Use $figma-web-capture to capture this webpage into a new or existing Figma file."
